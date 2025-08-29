@@ -12,3 +12,4 @@ AI powered travel guide partnering with content creators to make holiday plannin
 ### [Get Going](https://lucaducca.github.io/jgg-main-page/)
 Landing page builder to help non-technical, pre-product startup founders create a website quickly, easily and for free!
 - Tech stack: HTML, CSS, JavaScript, GitHub pages
+- User example: [10,000 Interns Foundation] (https://ableinterns.info/)
