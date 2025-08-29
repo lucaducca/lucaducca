@@ -1,6 +1,7 @@
 ## Hi, I'm Luca 👋
 
 Welcome to my GitHub! I’m a self-taught full-stack developer with a background in economics and strategy consulting.  
+📫 Connect with Me: [LinkedIn](https://www.linkedin.com/in/luca-ducceschi-b90247115/)
 
 ## 🔨 Featured Projects  
 
@@ -11,5 +12,3 @@ AI powered travel guide partnering with content creators to make holiday plannin
 ### [Get Going](https://lucaducca.github.io/jgg-main-page/)
 Landing page builder to help non-technical, pre-product startup founders create a website quickly, easily and for free!
 - Tech stack: HTML, CSS, JavaScript, GitHub pages
-
-📫 Connect with Me: [LinkedIn](https://www.linkedin.com/in/luca-ducceschi-b90247115/) 
